@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Test Application</string>
+    <string name="sample_text">this is some text</string>
+</resources>
